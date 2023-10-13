@@ -8,7 +8,7 @@ export default function Home() {
     // dataUrl: "/Build/public.data",
     // frameworkUrl: "/Build/public.framework.js",
     // codeUrl: "/Build/public.wasm",                                                                                                                                          
-    loaderUrl: "/Build/public.loader.js.br",
+    loaderUrl: "/Build/public.loader.js",
     dataUrl: "/Build/public.data.br",
     frameworkUrl: "/Build/public.framework.js.br",
     codeUrl: "/Build/public.wasm.br",                                                                                                                                          
