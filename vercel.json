@@ -1,0 +1,11 @@
+{
+    "version": 2,
+    "headers": [
+      {
+        "source": "/(.*)\\.(wasm|data)$",
+        "headers": [
+          { "key": "Content-Type", "value": "application/octet-stream" }
+        ]
+      }
+    ]
+  }
